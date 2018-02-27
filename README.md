@@ -1,0 +1,2 @@
+# utl_how_to_speed_up_proc_sql_when_joining_a_large_table_to_a_small_table
+How to speed up proc sql when joining a large table to a small table. Keywords: sas sql join merge big data analytics macros oracle teradata mysql sas communities stackoverflow statistics artificial inteligence AI Python R Java Javascript WPS Matlab SPSS Scala Perl C C# Excel MS Access JSON graphics maps NLP natural language processing machine learning igraph DOSUBL DOW loop stackoverfl SAS community.
